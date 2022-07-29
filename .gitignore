@@ -44,3 +44,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Firebase - Added by ERIC DUFFETT on 7.29.22
+/lib/firebase_options.dart
