@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "692141621711",
+    "project_id": "slowyourroll-f50b3",
+    "storage_bucket": "slowyourroll-f50b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692141621711:android:33bfe04417d436d8ce92ba",
+        "android_client_info": {
+          "package_name": "com.undauntedathlete.slow_your_roll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692141621711-fb6arciui057lrknuk2vrpejdb6prtcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklSdmbDL29v1BA4f5ThlXN9S7g76xaQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692141621711-fb6arciui057lrknuk2vrpejdb6prtcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692141621711-5r678ofe6sd8nf211v1ooltompfudkcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.undauntedathlete.slowYourRoll"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
